@@ -1,0 +1,10 @@
+Total Log Entries: 20
+INFO Entries: 11
+WARNING Entries: 4
+Error Logs: 5
+
+2026-07-28 09:04:20 ERROR Database connection failed
+2026-07-28 09:07:18 ERROR Failed to update stock
+2026-07-28 09:11:08 ERROR Invalid Product ID
+2026-07-28 09:15:27 ERROR Failed to connect to supplier server
+2026-07-28 09:19:55 ERROR File not found while exporting report
